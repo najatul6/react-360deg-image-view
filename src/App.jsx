@@ -1,4 +1,3 @@
-import "./App.css";
 import ShowImage from "./Components/ShowImage.jsx/ShowImage";
 
 function App() {
