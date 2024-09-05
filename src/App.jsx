@@ -6,8 +6,8 @@ function App() {
       <h2 className="text-5xl font-bold text-center py-5 px-2 bg-orange-600 text-white">
         Image 360<sup>&#176;</sup> view
       </h2>
-      <div className="grid grid-cols-3">
-        <div className="flex justify-center items-center">
+      <div className="grid grid-cols-1 lg:grid-cols-3">
+        <div className="hidden lg:flex justify-center items-center">
           <a
             href="https://github.com/najatul6/react-360deg-image-view"
             target="_blank"
