@@ -10,9 +10,23 @@ This project implements a 360-degree image viewer using React and the `react-360
 
 ## Project Structure
 
-```javascript
-. ├── public/ │ └── assets/ │ └── tshirts/ │ ├── image1.png │ ├── image2.png │ ├── image3.png │ ├── image4.png │ ├── image5.png │ └── image6.png ├── src/ │ ├── App.jsx │ └── Components/ │ └── ShowImage.jsx ├── README.md └── package.json
-
+```bash
+.
+├── public/
+│   └── assets/
+│       └── tshirts/
+│           ├── image1.png
+│           ├── image2.png
+│           ├── image3.png
+│           ├── image4.png
+│           ├── image5.png
+│           └── image6.png
+├── src/
+│   ├── App.jsx
+│   └── Components/
+│       └── ShowImage.jsx
+├── README.md
+└── package.json
 
 ### Image Structure
 
