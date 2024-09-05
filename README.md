@@ -27,6 +27,7 @@ This project implements a 360-degree image viewer using React and the `react-360
 │       └── ShowImage.jsx
 ├── README.md
 └── package.json
+```
 
 ### Image Structure
 
