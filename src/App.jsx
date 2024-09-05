@@ -2,7 +2,7 @@ import ShowImage from "./Components/ShowImage.jsx/ShowImage";
 
 function App() {
   return (
-    <>
+    <div className="py-5 lg:py-0">
       <h2 className="text-5xl font-bold text-center py-5 px-2 bg-orange-600 text-white">
         Image 360<sup>&#176;</sup> view
       </h2>
@@ -31,7 +31,7 @@ function App() {
           </a>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
